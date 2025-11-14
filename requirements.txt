@@ -1,0 +1,6 @@
+flask
+streamlit
+sentence-transformers
+scikit-learn
+PyPDF2
+requests
